@@ -1,0 +1,41 @@
+[
+    {
+        "model": "vandyapi.medication",
+        "pk": 1,
+        "fields": {
+            "medication_id": 716            ,
+            "name": "ATENOLOL 100 MG TABLET",
+            "generic_name": "atenolol",
+            "route": "oral",
+            "outpatients": 2983,
+            "inpatients": 101,
+            "patients": 2997
+        }
+    },
+    {
+        "model": "vandyapi.medication",
+        "pk": 2,
+        "fields": {
+            "medication_id": 717            ,
+            "name": "ATENOLOL 25 MG TABLET",
+            "generic_name": "atenolol",
+            "route": "oral",
+            "outpatients": 15542,
+            "inpatients": 3292,
+            "patients": 16660
+        }
+    },
+    {
+        "model": "vandyapi.medication",
+        "pk": 3,
+        "fields": {
+            "medication_id": 718            ,
+            "name": "ATENOLOL 50 MG TABLET",
+            "generic_name": "atenolol",
+            "route": "oral",
+            "outpatients": 11190,
+            "inpatients": 2864,
+            "patients": 12397
+        }
+    }
+]
