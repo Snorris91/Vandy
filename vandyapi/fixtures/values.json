@@ -1,0 +1,98 @@
+[
+    {
+        "model": "vandyapi.valueset",
+        "pk": 1,
+        "fields": {
+            "value_id": 100165,
+            "value_name": "ERX GENERAL BETA BLOCKERS PQRS MEASURE 7,8"
+        }
+    },
+    {
+        "model": "vandyapi.valueset",
+        "pk": 2,
+        "fields": {
+            "value_id": 101320,
+            "value_name": "AMB ERX GENERAL BETA-BLOCKERS NON-COMBO,NON-SOTALOL ORAL"
+        }
+    },
+    {
+        "model": "vandyapi.valueset",
+        "pk": 3,
+        "fields": {
+            "value_id": 110016,
+            "value_name": "AMB ERX GENERAL BETA-BLOCKER DIURETIC COMBO ORAL"
+        }
+    },
+    {
+        "model": "vandyapi.valueset",
+        "pk": 4,
+        "fields": {
+            "value_id": 1137370,
+            "value_name": "ERX GENERAL JCCM BETA BLOCKERS"
+        }
+    },
+    {
+        "model": "vandyapi.valueset",
+        "pk": 5,
+        "fields": {
+            "value_id": 1182000010,
+            "value_name": "ERX CV ICD BETA BLOCKER (ANY)"
+        }
+    },
+    {
+        "model": "vandyapi.valueset",
+        "pk": 6,
+        "fields": {
+            "value_id": 119859,
+            "value_name": "ERX SYSTEMIC BETA-BLOCKERS"
+        }
+    },
+    {
+        "model": "vandyapi.valueset",
+        "pk": 7,
+        "fields": {
+            "value_id": 1789055,
+            "value_name": "ERX PERIOPERATIVE BETA BLOCKERS"
+        }
+    },
+    {
+        "model": "vandyapi.valueset",
+        "pk": 8,
+        "fields": {
+            "value_id": 2100000212,
+            "value_name": "ERX GENERAL HEDIS CARDIO BETA BLOCKERS"
+        }
+    },
+    {
+        "model": "vandyapi.valueset",
+        "pk": 9,
+        "fields": {
+            "value_id": 2100000287,
+            "value_name": "ERX GENERAL BETA BLOCKERS"
+        }
+    },
+    {
+        "model": "vandyapi.valueset",
+        "pk": 10,
+        "fields": {
+            "value_id": 5100000260,
+            "value_name": "ERX GENERAL MU BETA BLOCKER THERAPY FOR LVSD 2.16.840.1.113883.3.526.3.1184"
+        }
+    },
+    {
+        "model": "vandyapi.valueset",
+        "pk": 11,
+        "fields": {
+            "value_id": 6100000000,
+            "value_name": "ACO ERX PRESCRIBED BETA BLOCKER"
+        }
+    },
+    {
+        "model": "vandyapi.valueset",
+        "pk": 12,
+        "fields": {
+            "value_id": 6100000002,
+            "value_name": "ACO ERX BETA BLOCKER ORDERED"
+        }
+    }
+]
