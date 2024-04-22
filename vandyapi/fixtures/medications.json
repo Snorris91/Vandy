@@ -1,4 +1,4 @@
-[
+
   [
     {
       "model": "vandyapi.medication",
@@ -11,7 +11,7 @@
         "outpatients": 2983,
         "inpatients": 101,
         "patients": 2997,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -25,7 +25,7 @@
         "outpatients": 15542,
         "inpatients": 3292,
         "patients": 16660,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -39,7 +39,7 @@
         "outpatients": 11190,
         "inpatients": 2864,
         "patients": 12397,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -53,7 +53,7 @@
         "outpatients": 36,
         "inpatients": 0,
         "patients": 36,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -67,7 +67,7 @@
         "outpatients": 28,
         "inpatients": 0,
         "patients": 28,
-        "valueset_id": [1,7,8,9]
+        "values": [1,7,8,9]
       }
     },
     {
@@ -81,7 +81,7 @@
         "outpatients": 3,
         "inpatients": 0,
         "patients": 3,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -95,7 +95,7 @@
         "outpatients": 6,
         "inpatients": 0,
         "patients": 6,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -109,7 +109,7 @@
         "outpatients": 1,
         "inpatients": 0,
         "patients": 1,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -123,7 +123,7 @@
         "outpatients": 1,
         "inpatients": 0,
         "patients": 1,
-        "valueset_id": [1,9,2,4,5,6,7,8,11,12]
+        "values": [1,9,2,4,5,6,7,8,11,12]
       }
     },
     {
@@ -137,7 +137,7 @@
         "outpatients": 9,
         "inpatients": 0,
         "patients": 9,
-        "valueset_id": [1,9,2,4,5,6,7,8,11,12]
+        "values": [1,9,2,4,5,6,7,8,11,12]
       }
     },
     {
@@ -151,7 +151,7 @@
         "outpatients": 35,
         "inpatients": 30204,
         "patients": 30239,
-        "valueset_id": [1,9,4,6,7,8,11,12]
+        "values": [1,9,4,6,7,8,11,12]
       }
     },
     {
@@ -165,7 +165,7 @@
         "outpatients": 7837,
         "inpatients": 953,
         "patients": 8059,
-        "valueset_id": [1,9,2,4,5,6,7,8,11,12]
+        "values": [1,9,2,4,5,6,7,8,11,12]
       }
     },
     {
@@ -179,7 +179,7 @@
         "outpatients": 26999,
         "inpatients": 9586,
         "patients": 30824,
-        "valueset_id": [1,9,2,4,5,6,7,8,11,12]
+        "values": [1,9,2,4,5,6,7,8,11,12]
       }
     },
     {
@@ -193,7 +193,7 @@
         "outpatients": 1705,
         "inpatients": 53,
         "patients": 1714,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -207,7 +207,7 @@
         "outpatients": 1134,
         "inpatients": 553,
         "patients": 1445,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -221,7 +221,7 @@
         "outpatients": 287,
         "inpatients": 5,
         "patients": 288,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -235,7 +235,7 @@
         "outpatients": 40,
         "inpatients": 2,
         "patients": 40,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -249,7 +249,7 @@
         "outpatients": 168,
         "inpatients": 15,
         "patients": 169,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -263,7 +263,7 @@
         "outpatients": 1635,
         "inpatients": 913,
         "patients": 2069,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -277,7 +277,7 @@
         "outpatients": 38,
         "inpatients": 0,
         "patients": 38,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -291,7 +291,7 @@
         "outpatients": 17531,
         "inpatients": 5005,
         "patients": 20107,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -305,7 +305,7 @@
         "outpatients": 12877,
         "inpatients": 3859,
         "patients": 15137,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -319,7 +319,7 @@
         "outpatients": 4549,
         "inpatients": 585,
         "patients": 4860,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -333,7 +333,7 @@
         "outpatients": 1256,
         "inpatients": 137,
         "patients": 1316,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -347,7 +347,7 @@
         "outpatients": 1148,
         "inpatients": 119,
         "patients": 1186,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -361,7 +361,7 @@
         "outpatients": 1,
         "inpatients": 0,
         "patients": 1,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -375,7 +375,7 @@
         "outpatients": 3,
         "inpatients": 0,
         "patients": 3,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -389,7 +389,7 @@
         "outpatients": 3,
         "inpatients": 0,
         "patients": 3,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -403,7 +403,7 @@
         "outpatients": 17,
         "inpatients": 0,
         "patients": 17,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -417,7 +417,7 @@
         "outpatients": 21,
         "inpatients": 2,
         "patients": 21,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -431,7 +431,7 @@
         "outpatients": 5,
         "inpatients": 0,
         "patients": 5,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -445,7 +445,7 @@
         "outpatients": 22,
         "inpatients": 0,
         "patients": 22,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -459,7 +459,7 @@
         "outpatients": 1,
         "inpatients": 0,
         "patients": 1,
-        "valueset_id": [1,9,7,8]
+        "values": [1,9,7,8]
       }
     },
     {
@@ -473,7 +473,7 @@
         "outpatients": 2,
         "inpatients": 0,
         "patients": 2,
-        "valueset_id": [1,9,7,8]
+        "values": [1,9,7,8]
       }
     },
     {
@@ -487,7 +487,7 @@
         "outpatients": 538,
         "inpatients": 91,
         "patients": 551,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -501,7 +501,7 @@
         "outpatients": 77,
         "inpatients": 0,
         "patients": 77,
-        "valueset_id": [1,9,2,4,5,6,7,8]
+        "values": [1,9,2,4,5,6,7,8]
       }
     },
     {
@@ -515,7 +515,7 @@
         "outpatients": 867,
         "inpatients": 12,
         "patients": 867,
-        "valueset_id": [1,3,4,6,7,8]
+        "values": [1,3,4,6,7,8]
       }
     },
     {
@@ -529,7 +529,7 @@
         "outpatients": 1293,
         "inpatients": 68,
         "patients": 1321,
-        "valueset_id": [1,3,4,6,7,8]
+        "values": [1,3,4,6,7,8]
       }
     },
     {
@@ -543,7 +543,7 @@
         "outpatients": 117,
         "inpatients": 49,
         "patients": 143,
-        "valueset_id": [1,7,8,9]
+        "values": [1,7,8,9]
       }
     },
     {
@@ -557,7 +557,7 @@
         "outpatients": 261,
         "inpatients": 18,
         "patients": 261,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -571,7 +571,7 @@
         "outpatients": 58,
         "inpatients": 5,
         "patients": 58,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -585,7 +585,7 @@
         "outpatients": 218,
         "inpatients": 9,
         "patients": 218,
-        "valueset_id": [1,7,8,9]
+        "values": [1,7,8,9]
       }
     },
     {
@@ -599,7 +599,7 @@
         "outpatients": 13,
         "inpatients": 42853,
         "patients": 42857,
-        "valueset_id": [1,4,6,7,8,9]
+        "values": [1,4,6,7,8,9]
       }
     },
     {
@@ -613,7 +613,7 @@
         "outpatients": 3812,
         "inpatients": 1489,
         "patients": 4533,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -627,7 +627,7 @@
         "outpatients": 3689,
         "inpatients": 1747,
         "patients": 4311,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -641,7 +641,7 @@
         "outpatients": 1231,
         "inpatients": 326,
         "patients": 1319,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -655,7 +655,7 @@
         "outpatients": 399,
         "inpatients": 7,
         "patients": 399,
-        "valueset_id": [3,4,6,7,8]
+        "values": [3,4,6,7,8]
       }
     },
     {
@@ -669,7 +669,7 @@
         "outpatients": 48,
         "inpatients": 1,
         "patients": 48,
-        "valueset_id": [3,4,6,7,8]
+        "values": [3,4,6,7,8]
       }
     },
     {
@@ -683,7 +683,7 @@
         "outpatients": 420,
         "inpatients": 2,
         "patients": 420,
-        "valueset_id": [3,4,6,7,8]
+        "values": [3,4,6,7,8]
       }
     },
     {
@@ -697,7 +697,7 @@
         "outpatients": 13,
         "inpatients": 0,
         "patients": 13,
-        "valueset_id": [1,3,4,6,7,8]
+        "values": [1,3,4,6,7,8]
       }
     },
     {
@@ -711,7 +711,7 @@
         "outpatients": 2,
         "inpatients": 0,
         "patients": 2,
-        "valueset_id": [1,3,4,6,7,8]
+        "values": [1,3,4,6,7,8]
       }
     },
     {
@@ -725,7 +725,7 @@
         "outpatients": 1,
         "inpatients": 1,
         "patients": 2,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -739,7 +739,7 @@
         "outpatients": 23,
         "inpatients": 1,
         "patients": 23,
-        "valueset_id": [1,3,4,6,7,8,9]
+        "values": [1,3,4,6,7,8,9]
       }
     },
     {
@@ -753,7 +753,7 @@
         "outpatients": 13,
         "inpatients": 0,
         "patients": 13,
-        "valueset_id": [1,3,4,6,7,8,9]
+        "values": [1,3,4,6,7,8,9]
       }
     },
     {
@@ -767,7 +767,7 @@
         "outpatients": 279,
         "inpatients": 0,
         "patients": 279,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -781,7 +781,7 @@
         "outpatients": 18,
         "inpatients": 0,
         "patients": 18,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -795,7 +795,7 @@
         "outpatients": 4753,
         "inpatients": 2398,
         "patients": 5328,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -809,7 +809,7 @@
         "outpatients": 796,
         "inpatients": 241,
         "patients": 946,
-        "valueset_id": [1,7,8,9]
+        "values": [1,7,8,9]
       }
     },
     {
@@ -823,7 +823,7 @@
         "outpatients": 8570,
         "inpatients": 1747,
         "patients": 9282,
-        "valueset_id": [1,7,8,9]
+        "values": [1,7,8,9]
       }
     },
     {
@@ -837,7 +837,7 @@
         "outpatients": 5,
         "inpatients": 0,
         "patients": 5,
-        "valueset_id": [1,3,4,6,7,8]
+        "values": [1,3,4,6,7,8]
       }
     },
     {
@@ -851,7 +851,7 @@
         "outpatients": 1,
         "inpatients": 0,
         "patients": 1,
-        "valueset_id": [1,3,4,6,7,8]
+        "values": [1,3,4,6,7,8]
       }
     },
     {
@@ -865,7 +865,7 @@
         "outpatients": 1,
         "inpatients": 0,
         "patients": 1,
-        "valueset_id": [3,4,6,7,8]
+        "values": [3,4,6,7,8]
       }
     },
     {
@@ -879,7 +879,7 @@
         "outpatients": 12,
         "inpatients": 0,
         "patients": 12,
-        "valueset_id": [7,8]
+        "values": [7,8]
       }
     },
     {
@@ -893,7 +893,7 @@
         "outpatients": 88,
         "inpatients": 0,
         "patients": 88,
-        "valueset_id": [7,8]
+        "values": [7,8]
       }
     },
     {
@@ -907,7 +907,7 @@
         "outpatients": 552,
         "inpatients": 4,
         "patients": 555,
-        "valueset_id": [7,8]
+        "values": [7,8]
       }
     },
     {
@@ -921,7 +921,7 @@
         "outpatients": 1594,
         "inpatients": 43,
         "patients": 1605,
-        "valueset_id": [7,8]
+        "values": [7,8]
       }
     },
     {
@@ -935,7 +935,7 @@
         "outpatients": 15,
         "inpatients": 0,
         "patients": 15,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -949,7 +949,7 @@
         "outpatients": 1815,
         "inpatients": 585,
         "patients": 1929,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -963,7 +963,7 @@
         "outpatients": 22359,
         "inpatients": 11473,
         "patients": 27586,
-        "valueset_id": [1,2,4,5,6,8,9,10,11,12]
+        "values": [1,2,4,5,6,8,9,10,11,12]
       }
     },
     {
@@ -977,7 +977,7 @@
         "outpatients": 18996,
         "inpatients": 6213,
         "patients": 19828,
-        "valueset_id": [1,2,4,5,6,8,9,10,11,12]
+        "values": [1,2,4,5,6,8,9,10,11,12]
       }
     },
     {
@@ -991,7 +991,7 @@
         "outpatients": 21242,
         "inpatients": 9264,
         "patients": 24558,
-        "valueset_id": [1,2,4,5,6,8,9,10,11,12]
+        "values": [1,2,4,5,6,8,9,10,11,12]
       }
     },
     {
@@ -1005,7 +1005,7 @@
         "outpatients": 3,
         "inpatients": 0,
         "patients": 3,
-        "valueset_id": [1,3,4,6,7,8,10,11,12]
+        "values": [1,3,4,6,7,8,10,11,12]
       }
     },
     {
@@ -1019,7 +1019,7 @@
         "outpatients": 5,
         "inpatients": 0,
         "patients": 5,
-        "valueset_id": [1,3,4,6,7,8,10,11,12]
+        "values": [1,3,4,6,7,8,10,11,12]
       }
     },
     {
@@ -1033,7 +1033,7 @@
         "outpatients": 7,
         "inpatients": 0,
         "patients": 7,
-        "valueset_id": [1,7,8,9]
+        "values": [1,7,8,9]
       }
     },
     {
@@ -1047,7 +1047,7 @@
         "outpatients": 10,
         "inpatients": 0,
         "patients": 10,
-        "valueset_id": [1,7,8,9,11,12]
+        "values": [1,7,8,9,11,12]
       }
     },
     {
@@ -1061,7 +1061,7 @@
         "outpatients": 1,
         "inpatients": 0,
         "patients": 1,
-        "valueset_id": [1,7,8,9]
+        "values": [1,7,8,9]
       }
     },
     {
@@ -1075,7 +1075,7 @@
         "outpatients": 1,
         "inpatients": 0,
         "patients": 1,
-        "valueset_id": [1,7,8,9]
+        "values": [1,7,8,9]
       }
     },
     {
@@ -1089,7 +1089,7 @@
         "outpatients": 1482,
         "inpatients": 7,
         "patients": 1483,
-        "valueset_id": [1,2,4,5,6,7,8,9,10,11,12]
+        "values": [1,2,4,5,6,7,8,9,10,11,12]
       }
     },
     {
@@ -1103,7 +1103,7 @@
         "outpatients": 3814,
         "inpatients": 1298,
         "patients": 4298,
-        "valueset_id": [1,2,4,5,6,7,8,9,10,11,12]
+        "values": [1,2,4,5,6,7,8,9,10,11,12]
       }
     },
     {
@@ -1117,7 +1117,7 @@
         "outpatients": 734,
         "inpatients": 13,
         "patients": 734,
-        "valueset_id": [1,3,4,6,7,8,10,11,12]
+        "values": [1,3,4,6,7,8,10,11,12]
       }
     },
     {
@@ -1131,7 +1131,7 @@
         "outpatients": 1078,
         "inpatients": 34,
         "patients": 1078,
-        "valueset_id": [1,3,4,6,7,8,10,11,12]
+        "values": [1,3,4,6,7,8,10,11,12]
       }
     },
     {
@@ -1145,7 +1145,7 @@
         "outpatients": 658,
         "inpatients": 9,
         "patients": 658,
-        "valueset_id": [1,3,4,6,7,8,10,11,12]
+        "values": [1,3,4,6,7,8,10,11,12]
       }
     },
     {
@@ -1159,7 +1159,7 @@
         "outpatients": 16428,
         "inpatients": 6956,
         "patients": 19367,
-        "valueset_id": [1,2,4,5,6,8,9,10,11,12]
+        "values": [1,2,4,5,6,8,9,10,11,12]
       }
     },
     {
@@ -1173,7 +1173,7 @@
         "outpatients": 36,
         "inpatients": 2,
         "patients": 36,
-        "valueset_id": [1,7,8,9]
+        "values": [1,7,8,9]
       }
     },
     {
@@ -1187,7 +1187,7 @@
         "outpatients": 9,
         "inpatients": 0,
         "patients": 9,
-        "valueset_id": [1,2,4,5,6,8,9,10,11,12]
+        "values": [1,2,4,5,6,8,9,10,11,12]
       }
     },
     {
@@ -1201,7 +1201,7 @@
         "outpatients": 12,
         "inpatients": 0,
         "patients": 12,
-        "valueset_id": [1,2,4,5,6,9,8,10,11,12]
+        "values": [1,2,4,5,6,9,8,10,11,12]
       }
     },
     {
@@ -1215,7 +1215,7 @@
         "outpatients": 8,
         "inpatients": 0,
         "patients": 8,
-        "valueset_id": [1,2,4,5,6,8,9,10,11,12]
+        "values": [1,2,4,5,6,8,9,10,11,12]
       }
     },
     {
@@ -1229,7 +1229,7 @@
         "outpatients": 16,
         "inpatients": 0,
         "patients": 16,
-        "valueset_id": [1,2,4,5,6,8,9,10,11,12]
+        "values": [1,2,4,5,6,8,9,10,11,12]
       }
     },
     {
@@ -1243,7 +1243,7 @@
         "outpatients": 8439,
         "inpatients": 1685,
         "patients": 8806,
-        "valueset_id": [1,7]
+        "values": [1,7]
       }
     },
     {
@@ -1257,7 +1257,7 @@
         "outpatients": 14,
         "inpatients": 0,
         "patients": 14,
-        "valueset_id": [1,7]
+        "values": [1,7]
       }
     },
     {
@@ -1271,7 +1271,7 @@
         "outpatients": 64,
         "inpatients": 0,
         "patients": 64,
-        "valueset_id": [1,7,8,9]
+        "values": [1,7,8,9]
       }
     },
     {
@@ -1285,7 +1285,7 @@
         "outpatients": 438,
         "inpatients": 5,
         "patients": 440,
-        "valueset_id": [1,7,8,9]
+        "values": [1,7,8,9]
       }
     },
     {
@@ -1299,7 +1299,7 @@
         "outpatients": 128,
         "inpatients": 131,
         "patients": 259,
-        "valueset_id": [1,4,6,7,8,9]
+        "values": [1,4,6,7,8,9]
       }
     },
     {
@@ -1313,7 +1313,7 @@
         "outpatients": 2,
         "inpatients": 1129,
         "patients": 1130,
-        "valueset_id": [4,6,7]
+        "values": [4,6,7]
       }
     },
     {
@@ -1327,7 +1327,7 @@
         "outpatients": 47053,
         "inpatients": 13653,
         "patients": 50677,
-        "valueset_id": [1,2,4,5,6,7,8,9,10]
+        "values": [1,2,4,5,6,7,8,9,10]
       }
     },
     {
@@ -1341,7 +1341,7 @@
         "outpatients": 451,
         "inpatients": 0,
         "patients": 451,
-        "valueset_id": [1,2,4,5,6,7,8,9,10]
+        "values": [1,2,4,5,6,7,8,9,10]
       }
     },
     {
@@ -1355,7 +1355,7 @@
         "outpatients": 31893,
         "inpatients": 9924,
         "patients": 35539,
-        "valueset_id": [1,2,4,5,6,7,8,9,10]
+        "values": [1,2,4,5,6,7,8,9,10]
       }
     },
     {
@@ -1369,7 +1369,7 @@
         "outpatients": 13774,
         "inpatients": 48,
         "patients": 13793,
-        "valueset_id": [1,2,4,5,6,7,8,9,10]
+        "values": [1,2,4,5,6,7,8,9,10]
       }
     },
     {
@@ -1383,7 +1383,7 @@
         "outpatients": 2018,
         "inpatients": 1,
         "patients": 2019,
-        "valueset_id": [1,2,4,5,6,7,8,9,10]
+        "values": [1,2,4,5,6,7,8,9,10]
       }
     },
     {
@@ -1397,7 +1397,7 @@
         "outpatients": 405,
         "inpatients": 0,
         "patients": 405,
-        "valueset_id": [1,2,4,5,6,7,8,9,10]
+        "values": [1,2,4,5,6,7,8,9,10]
       }
     },
     {
@@ -1411,7 +1411,7 @@
         "outpatients": 28,
         "inpatients": 0,
         "patients": 28,
-        "valueset_id": [1,2,4,5,6,7,8,9,10]
+        "values": [1,2,4,5,6,7,8,9,10]
       }
     },
     {
@@ -1425,7 +1425,7 @@
         "outpatients": 210,
         "inpatients": 0,
         "patients": 210,
-        "valueset_id": [1,2,4,5,6,7,8,9,10]
+        "values": [1,2,4,5,6,7,8,9,10]
       }
     },
     {
@@ -1439,7 +1439,7 @@
         "outpatients": 4,
         "inpatients": 0,
         "patients": 4,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -1453,7 +1453,7 @@
         "outpatients": 3,
         "inpatients": 0,
         "patients": 3,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -1467,7 +1467,7 @@
         "outpatients": 200,
         "inpatients": 0,
         "patients": 200,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -1481,7 +1481,7 @@
         "outpatients": 149,
         "inpatients": 0,
         "patients": 149,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -1495,7 +1495,7 @@
         "outpatients": 0,
         "inpatients": 307,
         "patients": 307,
-        "valueset_id": [4,6,7]
+        "values": [4,6,7]
       }
     },
     {
@@ -1509,7 +1509,7 @@
         "outpatients": 116,
         "inpatients": 0,
         "patients": 116,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -1523,7 +1523,7 @@
         "outpatients": 29,
         "inpatients": 0,
         "patients": 29,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -1537,7 +1537,7 @@
         "outpatients": 6,
         "inpatients": 0,
         "patients": 6,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -1551,7 +1551,7 @@
         "outpatients": 52857,
         "inpatients": 22143,
         "patients": 62016,
-        "valueset_id": [1,2,4,5,6,7,8,9,11,12]
+        "values": [1,2,4,5,6,7,8,9,11,12]
       }
     },
     {
@@ -1565,7 +1565,7 @@
         "outpatients": 6,
         "inpatients": 0,
         "patients": 6,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -1579,7 +1579,7 @@
         "outpatients": 4,
         "inpatients": 0,
         "patients": 4,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -1593,7 +1593,7 @@
         "outpatients": 1,
         "inpatients": 0,
         "patients": 1,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -1607,7 +1607,7 @@
         "outpatients": 4289,
         "inpatients": 450,
         "patients": 4379,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -1621,7 +1621,7 @@
         "outpatients": 2482,
         "inpatients": 306,
         "patients": 2554,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -1635,7 +1635,7 @@
         "outpatients": 1285,
         "inpatients": 162,
         "patients": 1305,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -1649,7 +1649,7 @@
         "outpatients": 449,
         "inpatients": 1,
         "patients": 449,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -1663,7 +1663,7 @@
         "outpatients": 18,
         "inpatients": 0,
         "patients": 18,
-        "valueset_id": [1,7,8,9]
+        "values": [1,7,8,9]
       }
     },
     {
@@ -1677,7 +1677,7 @@
         "outpatients": 8,
         "inpatients": 0,
         "patients": 8,
-        "valueset_id": [1,7,8]
+        "values": [1,7,8]
       }
     },
     {
@@ -1691,7 +1691,7 @@
         "outpatients": 47,
         "inpatients": 0,
         "patients": 47,
-        "valueset_id": [1,7,8]
+        "values": [1,7,8]
       }
     },
     {
@@ -1705,7 +1705,7 @@
         "outpatients": 218,
         "inpatients": 1,
         "patients": 219,
-        "valueset_id": [1,7,8,9]
+        "values": [1,7,8,9]
       }
     },
     {
@@ -1719,7 +1719,7 @@
         "outpatients": 236,
         "inpatients": 1,
         "patients": 237,
-        "valueset_id": [1,2,4,5,6,8,9,10,11,12]
+        "values": [1,2,4,5,6,8,9,10,11,12]
       }
     },
     {
@@ -1733,7 +1733,7 @@
         "outpatients": 281,
         "inpatients": 3,
         "patients": 282,
-        "valueset_id": [1,2,4,5,6,8,9,10,11,12]
+        "values": [1,2,4,5,6,8,9,10,11,12]
       }
     },
     {
@@ -1747,7 +1747,7 @@
         "outpatients": 209,
         "inpatients": 3,
         "patients": 211,
-        "valueset_id": [1,2,4,5,6,8,9,10,11,12]
+        "values": [1,2,4,5,6,8,9,10,11,12]
       }
     },
     {
@@ -1761,7 +1761,7 @@
         "outpatients": 98,
         "inpatients": 2,
         "patients": 98,
-        "valueset_id": [1,2,4,5,6,8,9,10,11,12]
+        "values": [1,2,4,5,6,8,9,10,11,12]
       }
     },
     {
@@ -1775,7 +1775,7 @@
         "outpatients": 16,
         "inpatients": 0,
         "patients": 16,
-        "valueset_id": [1,2,4,5,6,8,9,10,11,12]
+        "values": [1,2,4,5,6,8,9,10,11,12]
       }
     },
     {
@@ -1789,7 +1789,7 @@
         "outpatients": 39,
         "inpatients": 0,
         "patients": 39,
-        "valueset_id": [1,2,4,5,6,8,9,10,11,12]
+        "values": [1,2,4,5,6,8,9,10,11,12]
       }
     },
     {
@@ -1803,7 +1803,7 @@
         "outpatients": 38,
         "inpatients": 0,
         "patients": 38,
-        "valueset_id": [1,2,4,5,6,8,9,10,11,12]
+        "values": [1,2,4,5,6,8,9,10,11,12]
       }
     },
     {
@@ -1817,7 +1817,7 @@
         "outpatients": 10,
         "inpatients": 0,
         "patients": 10,
-        "valueset_id": [1,2,4,5,6,8,9,10,11,12]
+        "values": [1,2,4,5,6,8,9,10,11,12]
       }
     },
     {
@@ -1831,7 +1831,7 @@
         "outpatients": 0,
         "inpatients": 30064,
         "patients": 30064,
-        "valueset_id": [1,4,6,7,9]
+        "values": [1,4,6,7,9]
       }
     },
     {
@@ -1845,7 +1845,7 @@
         "outpatients": 1769,
         "inpatients": 207,
         "patients": 1859,
-        "valueset_id": [7]
+        "values": [7]
       }
     },
     {
@@ -1859,7 +1859,7 @@
         "outpatients": 1938,
         "inpatients": 0,
         "patients": 1938,
-        "valueset_id": [7]
+        "values": [7]
       }
     },
     {
@@ -1873,7 +1873,7 @@
         "outpatients": 3262,
         "inpatients": 136,
         "patients": 3296,
-        "valueset_id": [1,2,4,5,6,7,9]
+        "values": [1,2,4,5,6,7,9]
       }
     },
     {
@@ -1887,7 +1887,7 @@
         "outpatients": 1089,
         "inpatients": 36,
         "patients": 1095,
-        "valueset_id": [1,2,4,5,6,7,9]
+        "values": [1,2,4,5,6,7,9]
       }
     },
     {
@@ -1901,7 +1901,7 @@
         "outpatients": 2831,
         "inpatients": 149,
         "patients": 2869,
-        "valueset_id": [1,2,4,5,6,7,9]
+        "values": [1,2,4,5,6,7,9]
       }
     },
     {
@@ -1915,7 +1915,7 @@
         "outpatients": 310,
         "inpatients": 0,
         "patients": 310,
-        "valueset_id": [1,2,4,5,6,7,9]
+        "values": [1,2,4,5,6,7,9]
       }
     },
     {
@@ -1929,7 +1929,7 @@
         "outpatients": 1645,
         "inpatients": 0,
         "patients": 1645,
-        "valueset_id": [1,2,4,5,6,7,9]
+        "values": [1,2,4,5,6,7,9]
       }
     },
     {
@@ -1943,7 +1943,7 @@
         "outpatients": 1561,
         "inpatients": 0,
         "patients": 1561,
-        "valueset_id": [2,4,5,6,7,9]
+        "values": [2,4,5,6,7,9]
       }
     },
     {
@@ -1957,7 +1957,7 @@
         "outpatients": 1123,
         "inpatients": 48,
         "patients": 1132,
-        "valueset_id": [1,2,4,5,6,7,9]
+        "values": [1,2,4,5,6,7,9]
       }
     },
     {
@@ -1971,7 +1971,7 @@
         "outpatients": 667,
         "inpatients": 0,
         "patients": 667,
-        "valueset_id": [1,2,4,5,6,9]
+        "values": [1,2,4,5,6,9]
       }
     },
     {
@@ -1985,7 +1985,7 @@
         "outpatients": 473,
         "inpatients": 0,
         "patients": 473,
-        "valueset_id": [3,4,6,7,10]
+        "values": [3,4,6,7,10]
       }
     },
     {
@@ -1999,7 +1999,7 @@
         "outpatients": 291,
         "inpatients": 0,
         "patients": 291,
-        "valueset_id": [3,4,6,7,10]
+        "values": [3,4,6,7,10]
       }
     },
     {
@@ -2013,7 +2013,7 @@
         "outpatients": 129,
         "inpatients": 0,
         "patients": 129,
-        "valueset_id": [3,4,6,7,10]
+        "values": [3,4,6,7,10]
       }
     },
     {
@@ -2027,7 +2027,7 @@
         "outpatients": 3,
         "inpatients": 0,
         "patients": 3,
-        "valueset_id": [3,4,6,7,10]
+        "values": [3,4,6,7,10]
       }
     },
     {
@@ -2041,7 +2041,7 @@
         "outpatients": 2,
         "inpatients": 0,
         "patients": 2,
-        "valueset_id": [3,4,6,7,10]
+        "values": [3,4,6,7,10]
       }
     },
     {
@@ -2055,7 +2055,7 @@
         "outpatients": 2,
         "inpatients": 0,
         "patients": 2,
-        "valueset_id": [3,4,6,7,10]
+        "values": [3,4,6,7,10]
       }
     },
     {
@@ -2069,7 +2069,7 @@
         "outpatients": 639,
         "inpatients": 15,
         "patients": 644,
-        "valueset_id": [7]
+        "values": [7]
       }
     },
     {
@@ -2083,7 +2083,7 @@
         "outpatients": 180,
         "inpatients": 0,
         "patients": 180,
-        "valueset_id": [7]
+        "values": [7]
       }
     },
     {
@@ -2097,7 +2097,7 @@
         "outpatients": 27,
         "inpatients": 0,
         "patients": 27,
-        "valueset_id": [1,7,8]
+        "values": [1,7,8]
       }
     },
     {
@@ -2111,7 +2111,7 @@
         "outpatients": 129,
         "inpatients": 3,
         "patients": 129,
-        "valueset_id": [1,7,8]
+        "values": [1,7,8]
       }
     },
     {
@@ -2125,7 +2125,7 @@
         "outpatients": 8,
         "inpatients": 0,
         "patients": 8,
-        "valueset_id": [1,4,6,7,8,9,11,12]
+        "values": [1,4,6,7,8,9,11,12]
       }
     },
     {
@@ -2139,7 +2139,7 @@
         "outpatients": 3,
         "inpatients": 0,
         "patients": 3,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -2153,7 +2153,7 @@
         "outpatients": 2,
         "inpatients": 0,
         "patients": 2,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -2167,7 +2167,7 @@
         "outpatients": 15,
         "inpatients": 2,
         "patients": 16,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -2181,7 +2181,7 @@
         "outpatients": 7,
         "inpatients": 0,
         "patients": 7,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -2195,7 +2195,7 @@
         "outpatients": 68,
         "inpatients": 106,
         "patients": 113,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -2209,7 +2209,7 @@
         "outpatients": 24,
         "inpatients": 0,
         "patients": 24,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -2223,7 +2223,7 @@
         "outpatients": 4,
         "inpatients": 8192,
         "patients": 8193,
-        "valueset_id": [1,4,6,7,8,9]
+        "values": [1,4,6,7,8,9]
       }
     },
     {
@@ -2237,7 +2237,7 @@
         "outpatients": 3,
         "inpatients": 5171,
         "patients": 5173,
-        "valueset_id": [1,4,6,7,8,9]
+        "values": [1,4,6,7,8,9]
       }
     },
     {
@@ -2251,7 +2251,7 @@
         "outpatients": 24,
         "inpatients": 0,
         "patients": 24,
-        "valueset_id": [1,2,4,5,6,8,9]
+        "values": [1,2,4,5,6,8,9]
       }
     },
     {
@@ -2265,7 +2265,7 @@
         "outpatients": 16,
         "inpatients": 0,
         "patients": 16,
-        "valueset_id": [1,8,9]
+        "values": [1,8,9]
       }
     },
     {
@@ -2279,7 +2279,7 @@
         "outpatients": 1107,
         "inpatients": 0,
         "patients": 1107,
-        "valueset_id": [1,2,4,5,6,8,9]
+        "values": [1,2,4,5,6,8,9]
       }
     },
     {
@@ -2293,7 +2293,7 @@
         "outpatients": 75,
         "inpatients": 0,
         "patients": 75,
-        "valueset_id": [1,3,4,6,8]
+        "values": [1,3,4,6,8]
       }
     },
     {
@@ -2307,7 +2307,7 @@
         "outpatients": 2,
         "inpatients": 0,
         "patients": 2,
-        "valueset_id": [1,2,4,5,6,8,9]
+        "values": [1,2,4,5,6,8,9]
       }
     },
     {
@@ -2321,7 +2321,7 @@
         "outpatients": 17,
         "inpatients": 0,
         "patients": 17,
-        "valueset_id": [1,2,4,5,6,8,9]
+        "values": [1,2,4,5,6,8,9]
       }
     },
     {
@@ -2335,7 +2335,7 @@
         "outpatients": 2,
         "inpatients": 0,
         "patients": 2,
-        "valueset_id": [1,8,9]
+        "values": [1,8,9]
       }
     },
     {
@@ -2349,7 +2349,7 @@
         "outpatients": 14,
         "inpatients": 0,
         "patients": 14,
-        "valueset_id": [1,2,4,5,6,8,9]
+        "values": [1,2,4,5,6,8,9]
       }
     },
     {
@@ -2363,7 +2363,7 @@
         "outpatients": 39,
         "inpatients": 0,
         "patients": 39,
-        "valueset_id": [8]
+        "values": [8]
       }
     },
     {
@@ -2377,7 +2377,7 @@
         "outpatients": 8,
         "inpatients": 0,
         "patients": 8,
-        "valueset_id": [1,8,9]
+        "values": [1,8,9]
       }
     },
     {
@@ -2391,7 +2391,7 @@
         "outpatients": 170,
         "inpatients": 0,
         "patients": 170,
-        "valueset_id": [1,2,4,5,6,8,9,11,12]
+        "values": [1,2,4,5,6,8,9,11,12]
       }
     },
     {
@@ -2405,7 +2405,7 @@
         "outpatients": 92,
         "inpatients": 0,
         "patients": 92,
-        "valueset_id": [1,3,4,6,8,11,12]
+        "values": [1,3,4,6,8,11,12]
       }
     },
     {
@@ -2419,7 +2419,7 @@
         "outpatients": 1666,
         "inpatients": 0,
         "patients": 1666,
-        "valueset_id": [1,2,4,5,6,9]
+        "values": [1,2,4,5,6,9]
       }
     },
     {
@@ -2433,7 +2433,7 @@
         "outpatients": 16,
         "inpatients": 0,
         "patients": 16,
-        "valueset_id": [1,8,9]
+        "values": [1,8,9]
       }
     },
     {
@@ -2447,7 +2447,7 @@
         "outpatients": 850,
         "inpatients": 0,
         "patients": 850,
-        "valueset_id": [1,2,4,5,6,8,9,11,12]
+        "values": [1,2,4,5,6,8,9,11,12]
       }
     },
     {
@@ -2461,7 +2461,7 @@
         "outpatients": 17,
         "inpatients": 0,
         "patients": 17,
-        "valueset_id": [1,2,4,5,6,8,9,11,12]
+        "values": [1,2,4,5,6,8,9,11,12]
       }
     },
     {
@@ -2475,7 +2475,7 @@
         "outpatients": 16,
         "inpatients": 0,
         "patients": 16,
-        "valueset_id": [1,2,4,5,6,8,9,11,12]
+        "values": [1,2,4,5,6,8,9,11,12]
       }
     },
     {
@@ -2489,7 +2489,7 @@
         "outpatients": 200,
         "inpatients": 0,
         "patients": 200,
-        "valueset_id": [1,2,4,5,6,8,9,11,12]
+        "values": [1,2,4,5,6,8,9,11,12]
       }
     },
     {
@@ -2503,7 +2503,7 @@
         "outpatients": 30,
         "inpatients": 0,
         "patients": 30,
-        "valueset_id": [1,2,4,5,6,8,9]
+        "values": [1,2,4,5,6,8,9]
       }
     },
     {
@@ -2517,7 +2517,7 @@
         "outpatients": 1,
         "inpatients": 0,
         "patients": 1,
-        "valueset_id": [1,3,4,6,8]
+        "values": [1,3,4,6,8]
       }
     },
     {
@@ -2531,7 +2531,7 @@
         "outpatients": 173,
         "inpatients": 0,
         "patients": 173,
-        "valueset_id": [1]
+        "values": [1]
       }
     },
     {
@@ -2545,7 +2545,7 @@
         "outpatients": 312,
         "inpatients": 0,
         "patients": 312,
-        "valueset_id": [1]
+        "values": [1]
       }
     },
     {
@@ -2559,7 +2559,7 @@
         "outpatients": 34,
         "inpatients": 0,
         "patients": 34,
-        "valueset_id": [3,4,6]
+        "values": [3,4,6]
       }
     },
     {
@@ -2573,7 +2573,7 @@
         "outpatients": 2,
         "inpatients": 0,
         "patients": 2,
-        "valueset_id": [1,2,4,5,6,8,9]
+        "values": [1,2,4,5,6,8,9]
       }
     },
     {
@@ -2587,7 +2587,7 @@
         "outpatients": 58,
         "inpatients": 0,
         "patients": 58,
-        "valueset_id": [1,2,4,5,6,8,9]
+        "values": [1,2,4,5,6,8,9]
       }
     },
     {
@@ -2601,7 +2601,7 @@
         "outpatients": 12,
         "inpatients": 0,
         "patients": 12,
-        "valueset_id": [1,2,4,5,6,8,9]
+        "values": [1,2,4,5,6,8,9]
       }
     },
     {
@@ -2615,7 +2615,7 @@
         "outpatients": 5,
         "inpatients": 0,
         "patients": 5,
-        "valueset_id": [1,2,4,5,6,8,9]
+        "values": [1,2,4,5,6,8,9]
       }
     },
     {
@@ -2629,7 +2629,7 @@
         "outpatients": 20,
         "inpatients": 0,
         "patients": 20,
-        "valueset_id": [1,8,9]
+        "values": [1,8,9]
       }
     },
     {
@@ -2643,7 +2643,7 @@
         "outpatients": 16,
         "inpatients": 0,
         "patients": 16,
-        "valueset_id": [1,8,9]
+        "values": [1,8,9]
       }
     },
     {
@@ -2657,7 +2657,7 @@
         "outpatients": 2,
         "inpatients": 0,
         "patients": 2,
-        "valueset_id": [1,9,4,6,8]
+        "values": [1,9,4,6,8]
       }
     },
     {
@@ -2671,7 +2671,7 @@
         "outpatients": 233,
         "inpatients": 0,
         "patients": 233,
-        "valueset_id": [1,9,2,4,5,6,8]
+        "values": [1,9,2,4,5,6,8]
       }
     },
     {
@@ -2685,7 +2685,7 @@
         "outpatients": 4,
         "inpatients": 0,
         "patients": 4,
-        "valueset_id": [1,9,2,4,5,6,8]
+        "values": [1,9,2,4,5,6,8]
       }
     },
     {
@@ -2699,7 +2699,7 @@
         "outpatients": 6,
         "inpatients": 0,
         "patients": 6,
-        "valueset_id": [3,4,6,8]
+        "values": [3,4,6,8]
       }
     },
     {
@@ -2713,7 +2713,7 @@
         "outpatients": 133,
         "inpatients": 0,
         "patients": 133,
-        "valueset_id": [1,9,2,4,5,6,8,11,12]
+        "values": [1,9,2,4,5,6,8,11,12]
       }
     },
     {
@@ -2727,7 +2727,7 @@
         "outpatients": 277,
         "inpatients": 0,
         "patients": 277,
-        "valueset_id": [3,4,6]
+        "values": [3,4,6]
       }
     },
     {
@@ -2741,7 +2741,7 @@
         "outpatients": 1731,
         "inpatients": 1,
         "patients": 1732,
-        "valueset_id": [1,9,2,4,5,6,8]
+        "values": [1,9,2,4,5,6,8]
       }
     },
     {
@@ -2755,7 +2755,7 @@
         "outpatients": 16,
         "inpatients": 0,
         "patients": 16,
-        "valueset_id": [3,4,6,8]
+        "values": [3,4,6,8]
       }
     },
     {
@@ -2769,7 +2769,7 @@
         "outpatients": 46,
         "inpatients": 0,
         "patients": 46,
-        "valueset_id": [1,9,8,11,12]
+        "values": [1,9,8,11,12]
       }
     },
     {
@@ -2783,7 +2783,7 @@
         "outpatients": 4,
         "inpatients": 0,
         "patients": 4,
-        "valueset_id": [1,9,4,6,8,11,12]
+        "values": [1,9,4,6,8,11,12]
       }
     },
     {
@@ -2797,7 +2797,7 @@
         "outpatients": 2259,
         "inpatients": 0,
         "patients": 2259,
-        "valueset_id": [1,9,2,4,5,6,8,11,12]
+        "values": [1,9,2,4,5,6,8,11,12]
       }
     },
     {
@@ -2811,7 +2811,7 @@
         "outpatients": 2,
         "inpatients": 0,
         "patients": 2,
-        "valueset_id": [1,9,8]
+        "values": [1,9,8]
       }
     },
     {
@@ -2825,7 +2825,7 @@
         "outpatients": 91,
         "inpatients": 0,
         "patients": 91,
-        "valueset_id": [1,9,2,4,5,6,8]
+        "values": [1,9,2,4,5,6,8]
       }
     },
     {
@@ -2839,7 +2839,7 @@
         "outpatients": 4,
         "inpatients": 0,
         "patients": 4,
-        "valueset_id": [1,3,4,6,8]
+        "values": [1,3,4,6,8]
       }
     },
     {
@@ -2853,7 +2853,7 @@
         "outpatients": 40,
         "inpatients": 0,
         "patients": 40,
-        "valueset_id": [1,2,4,5,6,9]
+        "values": [1,2,4,5,6,9]
       }
     },
     {
@@ -2867,7 +2867,7 @@
         "outpatients": 1,
         "inpatients": 0,
         "patients": 1,
-        "valueset_id": [1,2,4,5,6,8,9]
+        "values": [1,2,4,5,6,8,9]
       }
     },
     {
@@ -2881,7 +2881,7 @@
         "outpatients": 23,
         "inpatients": 0,
         "patients": 23,
-        "valueset_id": [1,2,4,5,6,8,9]
+        "values": [1,2,4,5,6,8,9]
       }
     },
     {
@@ -2895,7 +2895,7 @@
         "outpatients": 31,
         "inpatients": 0,
         "patients": 31,
-        "valueset_id": [1,8,9]
+        "values": [1,8,9]
       }
     },
     {
@@ -2909,7 +2909,7 @@
         "outpatients": 603,
         "inpatients": 0,
         "patients": 603,
-        "valueset_id": [1,2,4,5,6,8,9]
+        "values": [1,2,4,5,6,8,9]
       }
     },
     {
@@ -2923,7 +2923,7 @@
         "outpatients": 41,
         "inpatients": 0,
         "patients": 41,
-        "valueset_id": [1,3,4,6,8,9]
+        "values": [1,3,4,6,8,9]
       }
     },
     {
@@ -2937,7 +2937,7 @@
         "outpatients": 14,
         "inpatients": 0,
         "patients": 14,
-        "valueset_id": [1,2,4,5,6,8,9]
+        "values": [1,2,4,5,6,8,9]
       }
     },
     {
@@ -2951,7 +2951,7 @@
         "outpatients": 3,
         "inpatients": 0,
         "patients": 3,
-        "valueset_id": [1,2,4,5,6,8,9]
+        "values": [1,2,4,5,6,8,9]
       }
     },
     {
@@ -2965,7 +2965,7 @@
         "outpatients": 150,
         "inpatients": 0,
         "patients": 150,
-        "valueset_id": [1,2,4,5,6,8,9]
+        "values": [1,2,4,5,6,8,9]
       }
     },
     {
@@ -2979,7 +2979,7 @@
         "outpatients": 1,
         "inpatients": 0,
         "patients": 1,
-        "valueset_id": [1,2,4,5,6,8,9]
+        "values": [1,2,4,5,6,8,9]
       }
     },
     {
@@ -2993,7 +2993,7 @@
         "outpatients": 6,
         "inpatients": 0,
         "patients": 6,
-        "valueset_id": [1,3,4,6,8]
+        "values": [1,3,4,6,8]
       }
     },
     {
@@ -3007,7 +3007,7 @@
         "outpatients": 145,
         "inpatients": 0,
         "patients": 145,
-        "valueset_id": [1,2,4,5,6,8,9]
+        "values": [1,2,4,5,6,8,9]
       }
     },
     {
@@ -3021,7 +3021,7 @@
         "outpatients": 8,
         "inpatients": 0,
         "patients": 8,
-        "valueset_id": [1,8,9]
+        "values": [1,8,9]
       }
     },
     {
@@ -3035,7 +3035,7 @@
         "outpatients": 11,
         "inpatients": 0,
         "patients": 11,
-        "valueset_id": [1,8]
+        "values": [1,8]
       }
     },
     {
@@ -3049,7 +3049,7 @@
         "outpatients": 172,
         "inpatients": 0,
         "patients": 172,
-        "valueset_id": [1,8]
+        "values": [1,8]
       }
     },
     {
@@ -3063,7 +3063,7 @@
         "outpatients": 31,
         "inpatients": 0,
         "patients": 31,
-        "valueset_id": [1,2,4,5,6,8]
+        "values": [1,2,4,5,6,8]
       }
     },
     {
@@ -3077,7 +3077,7 @@
         "outpatients": 226,
         "inpatients": 0,
         "patients": 226,
-        "valueset_id": [8]
+        "values": [8]
       }
     },
     {
@@ -3091,7 +3091,7 @@
         "outpatients": 3,
         "inpatients": 0,
         "patients": 3,
-        "valueset_id": [1,8]
+        "values": [1,8]
       }
     },
     {
@@ -3105,7 +3105,7 @@
         "outpatients": 44,
         "inpatients": 0,
         "patients": 44,
-        "valueset_id": [1,8,9]
+        "values": [1,8,9]
       }
     },
     {
@@ -3119,7 +3119,7 @@
         "outpatients": 5,
         "inpatients": 0,
         "patients": 5,
-        "valueset_id": [1,8,9]
+        "values": [1,8,9]
       }
     },
     {
@@ -3133,7 +3133,7 @@
         "outpatients": 1154,
         "inpatients": 0,
         "patients": 1154,
-        "valueset_id": [1,2,4,5,6,8,9]
+        "values": [1,2,4,5,6,8,9]
       }
     },
     {
@@ -3147,7 +3147,7 @@
         "outpatients": 4,
         "inpatients": 0,
         "patients": 4,
-        "valueset_id": [1,2,4,5,6,8,9]
+        "values": [1,2,4,5,6,8,9]
       }
     },
     {
@@ -3161,7 +3161,7 @@
         "outpatients": 31,
         "inpatients": 0,
         "patients": 31,
-        "valueset_id": [1,2,4,5,6,8,9,11,12]
+        "values": [1,2,4,5,6,8,9,11,12]
       }
     },
     {
@@ -3175,7 +3175,7 @@
         "outpatients": 138,
         "inpatients": 0,
         "patients": 138,
-        "valueset_id": [1,3,4,6,8,11,12]
+        "values": [1,3,4,6,8,11,12]
       }
     },
     {
@@ -3189,7 +3189,7 @@
         "outpatients": 606,
         "inpatients": 4,
         "patients": 609,
-        "valueset_id": [1,2,4,5,6,7,8,9,11,12]
+        "values": [1,2,4,5,6,7,8,9,11,12]
       }
     },
     {
@@ -3203,7 +3203,7 @@
         "outpatients": 764,
         "inpatients": 12,
         "patients": 765,
-        "valueset_id": [1,2,4,5,6,7,8,9,11,12]
+        "values": [1,2,4,5,6,7,8,9,11,12]
       }
     },
     {
@@ -3217,7 +3217,7 @@
         "outpatients": 7,
         "inpatients": 0,
         "patients": 7,
-        "valueset_id": [6,7]
+        "values": [6,7]
       }
     },
     {
@@ -3231,7 +3231,7 @@
         "outpatients": 4,
         "inpatients": 0,
         "patients": 4,
-        "valueset_id": [6,7]
+        "values": [6,7]
       }
     },
     {
@@ -3245,7 +3245,7 @@
         "outpatients": 1,
         "inpatients": 0,
         "patients": 1,
-        "valueset_id": [4,6,7]
+        "values": [4,6,7]
       }
     },
     {
@@ -3259,7 +3259,7 @@
         "outpatients": 2,
         "inpatients": 0,
         "patients": 2,
-        "valueset_id": [6]
+        "values": [6]
       }
     },
     {
@@ -3273,7 +3273,7 @@
         "outpatients": 1,
         "inpatients": 0,
         "patients": 1,
-        "valueset_id": [6]
+        "values": [6]
       }
     },
     {
@@ -3287,7 +3287,7 @@
         "outpatients": 0,
         "inpatients": 176,
         "patients": 176,
-        "valueset_id": [4,6,7]
+        "values": [4,6,7]
       }
     },
     {
@@ -3301,7 +3301,7 @@
         "outpatients": 0,
         "inpatients": 3,
         "patients": 3,
-        "valueset_id": [4,6,7]
+        "values": [4,6,7]
       }
     },
     {
@@ -3315,7 +3315,7 @@
         "outpatients": 27,
         "inpatients": 2,
         "patients": 27,
-        "valueset_id": [7]
+        "values": [7]
       }
     },
     {
@@ -3329,7 +3329,7 @@
         "outpatients": 102,
         "inpatients": 8,
         "patients": 104,
-        "valueset_id": [7]
+        "values": [7]
       }
     },
     {
@@ -3343,7 +3343,7 @@
         "outpatients": 16,
         "inpatients": 0,
         "patients": 16,
-        "valueset_id": [7]
+        "values": [7]
       }
     },
     {
@@ -3357,7 +3357,7 @@
         "outpatients": 17,
         "inpatients": 2,
         "patients": 18,
-        "valueset_id": [7]
+        "values": [7]
       }
     },
     {
@@ -3371,7 +3371,7 @@
         "outpatients": 21,
         "inpatients": 0,
         "patients": 21,
-        "valueset_id": [7]
+        "values": [7]
       }
     },
     {
@@ -3385,7 +3385,7 @@
         "outpatients": 679,
         "inpatients": 1,
         "patients": 679,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -3399,7 +3399,7 @@
         "outpatients": 480,
         "inpatients": 2,
         "patients": 480,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -3413,7 +3413,7 @@
         "outpatients": 425,
         "inpatients": 1,
         "patients": 425,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -3427,7 +3427,7 @@
         "outpatients": 49,
         "inpatients": 0,
         "patients": 49,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -3441,7 +3441,7 @@
         "outpatients": 31,
         "inpatients": 0,
         "patients": 31,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -3455,7 +3455,7 @@
         "outpatients": 25,
         "inpatients": 0,
         "patients": 25,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -3469,7 +3469,7 @@
         "outpatients": 2,
         "inpatients": 0,
         "patients": 2,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -3483,7 +3483,7 @@
         "outpatients": 1,
         "inpatients": 0,
         "patients": 1,
-        "valueset_id": [1,2,4,5,6,8,9]
+        "values": [1,2,4,5,6,8,9]
       }
     },
     {
@@ -3497,7 +3497,7 @@
         "outpatients": 8,
         "inpatients": 2,
         "patients": 10,
-        "valueset_id": [1,4,6,7,8,9]
+        "values": [1,4,6,7,8,9]
       }
     },
     {
@@ -3511,7 +3511,7 @@
         "outpatients": 1,
         "inpatients": 0,
         "patients": 1,
-        "valueset_id": [1,7,8,9,11,12]
+        "values": [1,7,8,9,11,12]
       }
     },
     {
@@ -3525,7 +3525,7 @@
         "outpatients": 2,
         "inpatients": 0,
         "patients": 2,
-        "valueset_id": [1,8,9,11,12]
+        "values": [1,8,9,11,12]
       }
     },
     {
@@ -3539,7 +3539,7 @@
         "outpatients": 10,
         "inpatients": 0,
         "patients": 10,
-        "valueset_id": [4,6,7]
+        "values": [4,6,7]
       }
     },
     {
@@ -3553,7 +3553,7 @@
         "outpatients": 179,
         "inpatients": 0,
         "patients": 179,
-        "valueset_id": [1,2,4,5,6,7,8,9,11,12]
+        "values": [1,2,4,5,6,7,8,9,11,12]
       }
     },
     {
@@ -3567,7 +3567,7 @@
         "outpatients": 50,
         "inpatients": 79,
         "patients": 106,
-        "valueset_id": [2,4,5,6,7,8,9]
+        "values": [2,4,5,6,7,8,9]
       }
     },
     {
@@ -3581,7 +3581,7 @@
         "outpatients": 0,
         "inpatients": 128,
         "patients": 128,
-        "valueset_id": [1,4,6,7,9]
+        "values": [1,4,6,7,9]
       }
     },
     {
@@ -3595,7 +3595,7 @@
         "outpatients": 470,
         "inpatients": 19166,
         "patients": 19516,
-        "valueset_id": [1,2,4,5,6,7,8,9,11,12]
+        "values": [1,2,4,5,6,7,8,9,11,12]
       }
     },
     {
@@ -3609,7 +3609,7 @@
         "outpatients": 252,
         "inpatients": 231,
         "patients": 373,
-        "valueset_id": [1,2,7,8,9]
+        "values": [1,2,7,8,9]
       }
     },
     {
@@ -3623,7 +3623,7 @@
         "outpatients": 459,
         "inpatients": 1028,
         "patients": 1260,
-        "valueset_id": [1,2,4,5,6,8,9,10,11,12]
+        "values": [1,2,4,5,6,8,9,10,11,12]
       }
     },
     {
@@ -3637,7 +3637,7 @@
         "outpatients": 111,
         "inpatients": 60,
         "patients": 144,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -3651,7 +3651,7 @@
         "outpatients": 7,
         "inpatients": 2232,
         "patients": 2238,
-        "valueset_id": [1,2,4,5,6,7,8,9,11,12]
+        "values": [1,2,4,5,6,7,8,9,11,12]
       }
     },
     {
@@ -3665,7 +3665,7 @@
         "outpatients": 9,
         "inpatients": 0,
         "patients": 9,
-        "valueset_id": [1,4,6,7,8,9]
+        "values": [1,4,6,7,8,9]
       }
     },
     {
@@ -3679,7 +3679,7 @@
         "outpatients": 0,
         "inpatients": 7,
         "patients": 7,
-        "valueset_id": [4,6]
+        "values": [4,6]
       }
     },
     {
@@ -3693,7 +3693,7 @@
         "outpatients": 2,
         "inpatients": 4,
         "patients": 6,
-        "valueset_id": [1,4,6,7,8,9]
+        "values": [1,4,6,7,8,9]
       }
     },
     {
@@ -3707,7 +3707,7 @@
         "outpatients": 8,
         "inpatients": 196,
         "patients": 204,
-        "valueset_id": [1,2,4,5,6,7,8,9]
+        "values": [1,2,4,5,6,7,8,9]
       }
     },
     {
@@ -3721,7 +3721,7 @@
         "outpatients": 0,
         "inpatients": 29,
         "patients": 29,
-        "valueset_id": [1,4,6,7,9]
+        "values": [1,4,6,7,9]
       }
     },
     {
@@ -3735,7 +3735,7 @@
         "outpatients": 0,
         "inpatients": 1,
         "patients": 1,
-        "valueset_id": [4,6,7]
+        "values": [4,6,7]
       }
     },
     {
@@ -3749,7 +3749,7 @@
         "outpatients": 927,
         "inpatients": 1924,
         "patients": 2457,
-        "valueset_id": [1,2,4,5,6,7,8,9,11,12]
+        "values": [1,2,4,5,6,7,8,9,11,12]
       }
     },
     {
@@ -3763,8 +3763,8 @@
         "outpatients": 2,
         "inpatients": 40,
         "patients": 42,
-        "valueset_id": [1,2,4,5,6,7,8,9,11,12]
+        "values": [1,2,4,5,6,7,8,9,11,12]
       }
     }
   ]
-]
+

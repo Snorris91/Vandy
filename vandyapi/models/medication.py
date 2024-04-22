@@ -8,8 +8,8 @@ class Medication(models.Model):
     outpatients = models.IntegerField(null=True, blank=True)
     inpatients = models.IntegerField(null=True, blank=True)
     patients = models.IntegerField(null=True, blank=True)
-    value_sets = models.ManyToManyField(
+    values = models.ManyToManyField(
         "ValueSet",
-        through='ValueSetMedication',
-        related_name="value_medications"
+        through='ValueMedication',
+        related_name="medications"
     )
